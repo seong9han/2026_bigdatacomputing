@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import os
 import matplotlib.font_manager as fm
 import pandas as pd
-
+ 
 # 한글 폰트 설정
 def setup_korean_font():
     """한글 폰트 설정 (수정 버전)"""
